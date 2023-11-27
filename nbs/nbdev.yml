@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "tutorial7akolar"
+  site-url: "https://AKolar5.github.io/tutorial7akolar"
+  description: "nbdev tutorial for CSCI 435"
+  repo-branch: main
+  repo-url: "https://github.com/AKolar5/tutorial7akolar"
